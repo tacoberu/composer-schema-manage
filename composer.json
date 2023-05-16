@@ -1,0 +1,25 @@
+{
+    "name": "tacoberu/composer-schema-manage",
+    "description": "Initiate versioning the database like code.",
+    "type": "library",
+    "keywords": [
+        "composer",
+        "database",
+        "versioning"
+    ],
+    "homepage": "https://taco-beru.name/schema-manage",
+    "license": ["MIT"],
+    "authors": [
+        {
+            "name": "Martin Takáč",
+            "homepage": "http://martin.takac.name",
+            "role": "lead"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "bin": [
+        "schema-manage"
+    ]
+}
