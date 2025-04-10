@@ -5,6 +5,8 @@
     "keywords": [
         "composer",
         "database",
+        "migration",
+        "schema-manage",
         "versioning"
     ],
     "homepage": "https://taco-beru.name/schema-manage",

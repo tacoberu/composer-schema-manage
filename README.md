@@ -1,8 +1,7 @@
 schema-manage
 =============
 
-Schema-manage je nástroj pro správu a verzování schematu databáze. Aktuální
-podpora je pro PostgreSQL, MySQL.
+Schema-manage je nástroj pro správu a verzování schematu databáze. Aktuální podpora je pro MySQL.
 
 Umožňuje:
 
